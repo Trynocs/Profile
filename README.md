@@ -38,6 +38,6 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats-blond-rho-46.vercel.app/api/top-langs?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=de&layout=pie" alt="trynocs" /></p>
+<p><img align="left" src="https://github-readme-stats-blond-rho-46.vercel.app/api/top-langs?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=pie" alt="trynocs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-blond-rho-46.vercel.app/api?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=de" alt="trynocs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-blond-rho-46.vercel.app/api?username=trynocs&show_icons=true&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="trynocs" /></p>
